@@ -1,0 +1,51 @@
+*{
+    margin: 0    ;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+header{
+    background-color: #002277;
+    color: #f8c400;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo{
+    width: 200px;
+    height: auto;
+}
+
+#navegacao{
+    font-size: 15px;
+    color:#f8c400;
+     margin-top: 10px;
+    
+}
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.titulo-menu{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.botão{
+    background-color: #f8c400;
+    color: #002277;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-weight: bold;}
+
+
