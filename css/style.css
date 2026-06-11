@@ -48,4 +48,18 @@ header{
     margin-right: 10px;
     font-weight: bold;}
 
+    #subtitulo{
+        background-color: #f8c400;
+        color: #002277;
+        padding: 30px;
+        font-size: 40px;
+    }
+
+    .jogadores{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 
