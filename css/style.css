@@ -60,10 +60,12 @@ header{
     gap: 20px;
     justify-content: center;
     flex-wrap: wrap;
+    background-color: #f8c400;
+    
 }
 .jogador{
     width: 250px;
-    background-color: white;
+    background-color:#f8c400(255, 255, 255);
     padding: 15px;
     border-radius: 10px;
     text-align: center;
@@ -73,5 +75,9 @@ header{
     width: 200px;
     height: 200px;
     object-fit: cover;
-    border-radius: 10px;
+    border-radius: 20px;
+    border: 4px solid #002277;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    
+}
 
